@@ -13,6 +13,14 @@
   ],
   "author": "Chung Wei Leong <leongchungwei@hotmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chungweileong94/craco-eslint-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chungweileong94/craco-eslint-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/chungweileong94/craco-eslint-webpack-plugin#readme",
   "devDependencies": {
     "@craco/craco": "^5.7.0",
     "@typescript-eslint/eslint-plugin": "^4.4.0",
