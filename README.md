@@ -1,6 +1,7 @@
 # craco-eslint-webpack-plugin
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/craco-eslint-webpack-plugin?color=%232bcf3e)](https://www.npmjs.com/package/craco-eslint-webpack-plugin)
 
 A [craco](https://github.com/gsoft-inc/craco) plugin for replacing eslint-loader with [eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin)
 
