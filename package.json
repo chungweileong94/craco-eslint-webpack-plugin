@@ -1,0 +1,37 @@
+{
+  "name": "craco-eslint-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A craco plugin for eslint-webpack-plugin",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "webpack",
+    "create-react-app",
+    "craco",
+    "cra",
+    "plugin"
+  ],
+  "author": "Chung Wei Leong <leongchungwei@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@craco/craco": "^5.7.0",
+    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/parser": "^4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-whiteroom-base": "^1.0.3",
+    "eslint-config-whiteroom-share": "^1.0.3",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import-helpers": "^1.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-webpack-plugin": "^2.1.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "peerDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-webpack-plugin": "^2.1.0"
+  }
+}
