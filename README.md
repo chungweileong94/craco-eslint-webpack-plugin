@@ -5,7 +5,7 @@
 
 A [craco](https://github.com/gsoft-inc/craco) plugin for replacing eslint-loader with [eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin)
 
-## NOTE: This plugin only works with craco v3
+## NOTE: This plugin only works with craco v5.8.x
 
 ## Installation
 
